@@ -1,7 +1,9 @@
 # IMDB-Top-250-Movies
 
 ####-Data set is about movies from year 1921 to 2022.
+
 ####-It containes 250 rows and 13 columns.
+
 ####-**Columns are**:
 ####rank - Rank of the movie.
 ####name - Name of the movie.
