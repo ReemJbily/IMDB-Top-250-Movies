@@ -24,10 +24,6 @@
 #### I convert budget/box_office columns to numerical and fixed some data, so I can find correlations without affecting the over all results.
 #### -**In Statistical operation section**
 ## Insights on the data:
-#### 1-Correlation between budget and box_office(earnings).
-#### 2-Correlation between budget and rating.
-#### 3-The most appearing actor/actress in movies.
-## -**Results:**
 #### -No correlation between budget and box_office==> the earnings of a movie does not relate to amount of money spent.
 #### -Nocorrelation between budget and rating==> amount of money spent does not affect the movie rating. 
 #### -No correlation between box_office and rating==> highy rating does not mean more earnings.
