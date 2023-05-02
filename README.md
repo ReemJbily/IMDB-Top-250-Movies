@@ -1,23 +1,23 @@
 # IMDB-Top-250-Movies
 
-#### Data set is about movies from year 1921 to 2022.
+#### The data set is about movies from year 1921 to 2022.
 
 #### It containes 250 rows and 13 columns.
 
 #### -**Columns are**:
-#### rank - Rank of the movie.
-#### name - Name of the movie.
-#### year - Release year.
-#### rating - Rating of the movie.
-#### genre - Genre of the movie.
-#### certificate - Certificate of the movie.
-#### run_time - Total movie run time.
-#### tagline - Tagline of the movie.
-#### budget - Budget of the movie.
-#### box_office - Total box office collection across the world.
-#### casts - All casts of the movie.
-#### directors - Director of the movie.
-#### writers - Writer of the movie.
+#### rank: Rank of the movie.
+#### name: Name of the movie.
+#### year: Release year.
+#### rating: Rating of the movie.
+#### genre: Genre of the movie.
+#### certificate: Certificate of the movie.
+#### run_time: Total movie run time.
+#### tagline: Tagline of the movie.
+#### budget: Budget of the movie.
+#### box_office: Total box office collection across the world.
+#### casts: All casts of the movie.
+#### directors: Director of the movie.
+#### writers: Writer of the movie.
 #### -There are **no null values** in any cloumn but there are **Not Available** values.
 #### -Numerical columns are **year**, **rank** and **rating**.
 #### -**In preprocessing section**
